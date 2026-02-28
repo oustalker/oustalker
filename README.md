@@ -33,12 +33,12 @@ I am a results-driven Python developer currently based in **Ukraine**. Despite t
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oustalker&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВІЙ_НІКНЕЙМ]&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oustalker&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([ТВІЙ_ЛІНК_ЛІНКЕДІН])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-lebed-a873723b4/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([ТВІЙ_ЛІНК_ТІКТОК])
 
 *"Turning coffee and challenges into clean, scalable code."*

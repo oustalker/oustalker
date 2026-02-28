@@ -32,12 +32,6 @@ I am a highly disciplined developer from **Dnipro, Ukraine**, with a unique back
 
 ---
 
-### 📈 GitHub Ecosystem
-![oustalker's GitHub stats](https://github-readme-stats.vercel.app/api?username=oustalker&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oustalker&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-lebed-a873723b4/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ou_stalker)

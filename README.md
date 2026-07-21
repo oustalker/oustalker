@@ -62,12 +62,4 @@ Collect and process data from external sources with step-by-step FSM logic and a
 
 ---
 
-### 📫 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](#)
-
----
-
 *"Building reliable backends and AI-powered tools, one commit at a time."*
